@@ -2,11 +2,11 @@
 
 Group Members
 
--Ajayrangan Kasturirangan - ak10196@nyu.edu
--Akshay Shetty - as16477@nyu.edu
--Sharvari Deshpande - sd5270@nyu.edu
--Shantanu Anikhindi - saa9213@nyu.edu
--Devang Dave - dld9783@nyu.edu
+* Ajayrangan Kasturirangan - ak10196@nyu.edu
+* Akshay Shetty - as16477@nyu.edu
+* Sharvari Deshpande - sd5270@nyu.edu
+* Shantanu Anikhindi - saa9213@nyu.edu
+* Devang Dave - dld9783@nyu.edu
 
 Weather anomalies imply a feeling of uncertainty among commuters. The weather
 change has revealed behavioral shifts in relation to a person's decision to utilize numerous or
