@@ -28,6 +28,4 @@ preference. The model could be used to help city planners and transportation pro
 understand and plan for the transportation needs of New Yorkers based on the weather.
 
 
-[Link to Project report](https://github.com/ajay1808/MLC-Project/blob/main/MLC%20Final%20Report.pdf)
-
-Links to python notebooks linked to the project:
+[Link to Project report](https://github.com/ajay1808/MLC-Project/blob/main/MLC%20Final%20Report.pdf) 
