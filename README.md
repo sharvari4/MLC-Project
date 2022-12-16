@@ -28,4 +28,22 @@ preference. The model could be used to help city planners and transportation pro
 understand and plan for the transportation needs of New Yorkers based on the weather.
 
 
-[Link to Project report](https://github.com/ajay1808/MLC-Project/blob/main/MLC%20Final%20Report.pdf) 
+[Link to Project report](https://github.com/ajay1808/MLC-Project/blob/main/MLC%20Final%20Report.pdf)
+
+Data Preparation and Analysis:
+
+* [MTA](https://github.com/ajay1808/MLC-Project/blob/main/MTA%20Data%20Prep.ipynb)
+* [Citibike](https://github.com/ajay1808/MLC-Project/blob/main/Citibike.ipynb)
+* [Weather Data](https://github.com/ajay1808/MLC-Project/blob/main/Weather_EDA.ipynb)
+* [Taxi cleaning](https://github.com/ajay1808/MLC-Project/blob/main/Taxi_cleaning%20(1).ipynb)
+* [Data Compilation](https://github.com/ajay1808/MLC-Project/blob/main/Data%20Compilation.ipynb)
+* [Anomaly Detection and Analysis](https://github.com/ajay1808/MLC-Project/blob/main/MLproject_shantanu%20(2).ipynb)
+
+Machine Learning Models:
+* [MTA Exits](https://github.com/ajay1808/MLC-Project/blob/main/MTA%20Exit%20ML%20Model.ipynb)
+* [MTA Entries](https://github.com/ajay1808/MLC-Project/blob/main/MTA%20Entry%20ML%20Model.ipynb)
+* [Citibike](https://github.com/ajay1808/MLC-Project/blob/main/Citibike_Model-New.ipynb)
+* [Green Taxi](https://github.com/ajay1808/MLC-Project/blob/main/Green_Taxi%20ML%20Model.ipynb)
+* [Yellow Taxi](https://github.com/ajay1808/MLC-Project/blob/main/Yellow_Taxi%20ML%20Model.ipynb)
+* [Classification Based Models](https://github.com/ajay1808/MLC-Project/blob/main/ML%20Models-%20Classification%20Based.ipynb)
+
